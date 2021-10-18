@@ -1,0 +1,20 @@
+[display-plates]
+blueprint-wont-have-icons=Este plano actualizado no contendrá ningun incono o marcador de mapa de las pantallas. Para incluirlos, crea un nuevo plano.
+
+[entity-name]
+copper-display=Pantalla de cobre (grande)
+iron-display=Pantalla de hierro (grande)
+steel-display=Pantalla de acero (grande)
+copper-display-medium=Pantalla de cobre (media)
+iron-display-medium=Pantalla de hierro (media)
+steel-display-medium=Pantalla de acero (media)
+copper-display-small=Pantalla de cobre (pequeña)
+iron-display-small=Pantalla de hierro (pequeña)
+steel-display-small=Pantalla de acero (pequeña)
+
+[controls]
+display-map-marker=Marcador de mapa
+display-plate=Pantalla
+
+[entity-description]
+display=Un icono o signo que puede ser conectado a un marcador de mapa. Las opciones de iconos y marcadores de mapa se preservan en los planos.
